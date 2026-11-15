@@ -1,2 +1,8 @@
 # hindi-stories
 001-hanuman-sanjeevani.txt.
+Line 1: "उनकी" (twice) and "बल्कि".
+Line 2: "बहुत" before चिंतित.
+Line 3: "बूटी".
+Line 4: "उन्होंने देर नहीं की" (he didn't delay).
+Line 5: "के प्रभाव".
+Line 6: "सीख यही है:".
