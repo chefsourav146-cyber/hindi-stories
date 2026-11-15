@@ -1,2 +1,2 @@
 # hindi-stories
-scripts/001-hanuman-sanjeevani.txt.
+001-hanuman-sanjeevani.txt.
